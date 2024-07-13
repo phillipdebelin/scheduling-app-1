@@ -1,0 +1,31 @@
+body {
+    background-color: #f8f9fa;
+}
+
+h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
+
+#calendar {
+    width: 100%;
+}
+
+#auth-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#logout-btn {
+    display: none;
+}
+
+form {
+    width: 100%;
+}
+
+input,
+button {
+    width: 100%;
+}
